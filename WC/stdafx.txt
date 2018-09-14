@@ -1,0 +1,19 @@
+// stdafx.cpp : 
+// CW.pch 
+// stdafx.obj 
+
+#include "stdafx.h"
+{
+
+}
+// TODO:  STDAFX.H 
+//
+
+     //
+
+dasda///dsaad
+
+
+  fas d d ad //
+
+sdfsf
